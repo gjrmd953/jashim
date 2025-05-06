@@ -1,0 +1,272 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    display: inline-block !important;
+}
+ul{
+    list-style: none;
+}
+img{
+    vertical-align: middle;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+}
+/* nav part start */
+
+.menu_bg{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+.menu_bg ul li a{
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: none;
+    color: #333333 !important;
+    padding: 16px 29px !important;
+    align-items: center !important;
+}
+.menu_bg ul li:last-child a{
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: none;
+    color: #FFFFFF !important;
+    padding: 16px 48px !important;
+    background-color: #7C4EE4;
+    border-radius: 8px;
+}
+/* nav part end */
+
+/* game part start */
+#game{
+    padding: 100px 0;
+}
+.head_text{
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: none;
+    color: #333333;
+    padding-top: 84px;
+}
+.game_head h2{
+    font-family: "Raleway", sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: none;
+    color: #333333;
+    padding-top: 33px;
+    padding-bottom: 56px;
+}
+
+.game_img img{
+    width: 100%;
+}
+
+.google p{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none;
+    color: #666666;
+    padding-top: 65px;
+    padding-bottom: 18px;
+}
+
+.people h4{
+    font-family: "Raleway", sans-serif;
+    font-size: 24px;
+    font-weight: initial;
+    text-transform: none;
+    color: #666666;
+    padding-top: 33px;
+    padding-bottom: 30px; 
+}
+.people h5{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: none;
+    color: #333333;
+    padding-bottom: 40px; 
+}
+
+.more p{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none;
+    color: #666666;
+    padding-bottom: 40px;  
+}
+
+.mobile_img img{
+    width: 100%;
+}
+
+.we_text p{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none;
+    color: #333333;
+    padding-top: 40px;
+    padding-bottom: 100px;  
+}
+/* game part end */
+
+#Popular{
+    padding-bottom: 70px;
+}
+.popu_head h2{
+    font-family: "Raleway", sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: none;
+    color: #333333;
+    padding-bottom: 90px;
+}
+.popu_btn_one a{
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: none;
+    color: #FFFFFF;
+    padding: 16px 48px;
+    background-color: #7C4EE4;
+    border-radius: 8px;
+}
+
+.jashim{
+    border: none;
+ }
+ .jashim img{
+     width: 100%;
+ }
+ .jashim-body{
+     padding-left: 0;
+ }
+ .jashim-body h5{
+     font-family: "Roboto", sans-serif;
+     font-size: 12px;
+     font-weight: 500;
+     text-transform: none;
+     color: #999999;
+     padding-top: 42px;
+     padding-bottom: 14px; 
+ }
+ .jashim-body h2{
+     font-family: "Roboto", sans-serif;
+     font-size: 24px;
+     font-weight: bold;
+     text-transform: none;
+     color: #333333;
+     padding-bottom: 7px; 
+ }
+ .jashim-body p{
+     font-family: "Roboto", sans-serif;
+     font-size: 18px;
+     font-weight: bold;
+     text-transform: none;
+     color: #666666;
+     padding-bottom: 19px;
+ }
+ .jashim-body a{
+     font-family: "Roboto", sans-serif;
+     font-size: 18px;
+     font-weight: bold;
+     text-transform: none;
+     color: #7C4EE4;
+     padding-bottom: 19px; 
+ }
+
+
+ /* Get part start */
+#Get{
+    padding-top: 127px;
+    padding-bottom: 132px;
+    background-color: #7C4EE4;
+}
+.Get_text h2{
+    font-family: "Raleway", sans-serif;
+    font-size: 52px;
+    font-weight: bold;
+    text-transform: none;
+    color: #FFFFFF;
+    padding-bottom: 44px;
+}
+.from input{
+    padding: 16px 32px;
+    border-radius: 8px;
+    border: none;
+   
+}
+.from a{
+    padding: 16px 32px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+.Get_text p{
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none;
+    color: #BBBBBB;
+    padding-top: 24px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+/* Get part end */
+
+
+/* footer part start */
+#footer{
+    padding: 48px;
+}
+.menu a{
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none;
+    color: #150E06;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.icon a{
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #7C4EE4;
+    padding: 15px;
+    border-radius: 100px;
+    
+}
+/* footer part end */
+
+
+/* Copyright part start */
+#Copyright{
+    padding-top: 40px;
+    padding-bottom: 54px;
+}
+.Copyright_txt h2{
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none;
+    color: #150E06;
+}
+/* Copyright part end */
